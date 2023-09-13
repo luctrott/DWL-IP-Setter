@@ -1,12 +1,12 @@
 - DWL Accespoint configuration tool
 - ===================
 
--Installation
+Installation
 -------------
-python3
+- python3
 - pip3 install pyserial
 
--Usage
+Usage
 ------
--python3 set-ip.py
--Follow the instructions
+- python3 set-ip.py
+- Follow the instructions
