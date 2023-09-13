@@ -1,4 +1,4 @@
-DWL Accespoint configuration tool
+DWL Accespoint IP setter tool
 =================================
 
 
@@ -10,4 +10,4 @@ Installation
 Usage
 ------
 - python3 set-ip.py
-- Follow the instructions
+- Follow the input requests/instructions
