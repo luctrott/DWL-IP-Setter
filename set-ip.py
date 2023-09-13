@@ -162,7 +162,7 @@ def setup(ser,user,password,subnet,ip):
 
 def setup2(ser,user,password,subnet,ip)->bool:
     print(f"Setting IP: {ip}")
-    input("Press enter to Start:")
+    input("Connect AP, Press enter than turn on the AP:")
     try:
         return setup(ser,user,password,subnet,ip)
     except:
