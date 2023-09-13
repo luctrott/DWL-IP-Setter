@@ -1,5 +1,6 @@
-- DWL Accespoint configuration tool
-- ===================
+DWL Accespoint configuration tool
+=================================
+
 
 Installation
 -------------
